@@ -26,8 +26,6 @@ function solution (arrangement) {
 
     return answer;
 }
-
-solution('()(((()())(())()))(())'); // answer: 17
 ~~~
 
 <br/>
@@ -66,24 +64,18 @@ solution('()(((()())(())()))(())'); // answer: 17
 
 <br/>
 
-**제한사항**  
+###제한사항  
 
 arrangement의 길이는 최대 100,000입니다.
 arrangement의 여는 괄호와 닫는 괄호는 항상 쌍을 이룹니다.
 
 <br/>
 
-**입출력 예**  
+###입출력 예
 
 |**arrangement**|**return**|
 |---|---|
 |()(((()())(())()))(())|17|
-
-<br/>
-
-**입출력 예 설명**  
-
-문제에 나온 예와 같습니다.
 
 <br/>
 
