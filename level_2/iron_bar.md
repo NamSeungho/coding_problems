@@ -75,7 +75,7 @@ arrangement의 여는 괄호와 닫는 괄호는 항상 쌍을 이룹니다.
 
 ### 입출력 예
 
-|**arrangement**|**return**|
+|arrangement|return|
 |---|---|
 |()(((()())(())()))(())|17|
 
